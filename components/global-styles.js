@@ -5,6 +5,7 @@ injectGlobal`
 
 body {
   margin: 0;
-  font-family: 'Inconsolata'
+  font-family: 'Inconsolata';
+  color: #333333;
 }
 `;
